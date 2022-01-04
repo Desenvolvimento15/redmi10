@@ -1856,10 +1856,6 @@ input[type=number] {
     background: var(--background-primary-hover)
 }
 
-body.mi-modal__Body--overflow-hidden {
-    overflow: hidden
-}
-
 .mi-toast.mi-toast--desktop .mi-toast__wrapper-enter {
     opacity: 0
 }
@@ -3325,8 +3321,6 @@ sub {
     font-weight: 700 !important
 }
 
-
-
 a {
     color: inherit;
     font-size: 14Px;
@@ -3353,4 +3347,3 @@ select,
 textarea {
     background-color: var(--background-card-bg);
     border-color: var(--title-dark)
-}
