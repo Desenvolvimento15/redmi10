@@ -1,2 +1,2 @@
-# redmi10
+# Redmi10
 Redmi 10 Xiaomi
