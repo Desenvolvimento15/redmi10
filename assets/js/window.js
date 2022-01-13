@@ -27,7 +27,7 @@
       e.devicePixelRatio && e.devicePixelRatio >= 2)
     ) {
       var o = t.createElement("div"),
-        d = t.createElement("body");
+        d = t.createElement("main");
       (o.style.border = "0.5px solid transparent"),
         d.appendChild(o),
         i.appendChild(d),
