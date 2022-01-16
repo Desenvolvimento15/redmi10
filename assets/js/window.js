@@ -1,6 +1,6 @@
 !(function (e, t) {
     var i = t.documentElement;
-    t.body;
+    t.main;
     function n() {
       var t = i.clientWidth,
         n = t >= 1226 ? t / 10 : 122.6;
@@ -31,7 +31,7 @@
       (o.style.border = "0.5px solid transparent"),
         d.appendChild(o),
         i.appendChild(d),
-        1 === o.offsetHeight && i.classList.add("hairlines"),
+        1 === o.offsetHeight && i.classK19A.add("hairlines"),
         i.removeChild(d);
     }
   })(window, document);
